@@ -53,7 +53,6 @@ footer {
     padding: 40px 35px;
     display: flex;
     justify-content: space-between;
-
     flex-wrap: wrap;
 }
 
@@ -147,6 +146,7 @@ section {
 .steps {
     background: #fce138;
 }
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -156,6 +156,7 @@ section {
     margin-right: 0 auto 35px auto;
     width: 50%;
 }
+
 .primary-border {
    border-color: #fce138; 
 }
@@ -245,6 +246,7 @@ section {
 
 .flex-row {
     display: flex;
+    justify-content: center;
 }
 
 .trainer-bio h3 {
